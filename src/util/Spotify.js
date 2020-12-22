@@ -1,6 +1,6 @@
 
 const clientId = 'ad7eafee5b5f4a5e9015214fea944e33';
-const redirectUri = 'http://localhost:3000/'
+const redirectUri = 'https://gifted-lichterman-22d191.netlify.app'
 let accessToken;
 
 const Spotify = {
